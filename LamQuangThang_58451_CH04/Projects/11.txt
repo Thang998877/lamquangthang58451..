@@ -1,0 +1,1 @@
+Đề xuất giải pháp cho vấn đề này trong mã của Jack và sửa đổi pro gram để nó xử lý các trường hợp này một cách chính xác.

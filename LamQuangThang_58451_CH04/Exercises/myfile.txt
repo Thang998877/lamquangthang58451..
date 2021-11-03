@@ -1,0 +1,9 @@
+Chapter 04: Strings and Text Files
+Case Study:
+- Case Study:  Text Analysis page 126
+Exercises:
+- Accessing Characters and Substrings in Strings: Exercise from 1 to 3 page 109
+- Strings and Number Systems: Exercise from 1 to 5 page 114
+- String Methods: Exercise from 1 to 2 page 118
+- Text Files: Exercise from 1 to 5 page 125
+Projects: From 01->12 page 132
